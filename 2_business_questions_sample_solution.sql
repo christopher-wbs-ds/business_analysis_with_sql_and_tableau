@@ -11,6 +11,7 @@ In relation to the products:
 -- "computers", 
 -- "tablets_printing_image", 
 -- "telephony";
+-- "make a change";
 
 -- How many products of these tech categories have been sold (within the time window of the database snapshot)? 
 SELECT COUNT(DISTINCT(oi.product_id)) AS tech_products_sold
