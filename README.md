@@ -15,3 +15,6 @@ communicating technical insights to non-technical audiences.]
 [Share any challenges encountered during the project and how you overcame them.]
 ## Additional Reflections
 [Feel free to add any additional reflections or insights gained from working on this project.]
+
+
+Additional credit to my partners in this project: [Christopher Galloway](https://github.com/usercg86)
